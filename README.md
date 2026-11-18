@@ -55,6 +55,6 @@
 
 - 💼 **LinkedIn:** [Nehal Hammam Hassan](https://linkedin.com/in/nehal-hammam-hassan)
 - 🐙 **GitHub:** [nehalhammam](https://github.com/nehalhammam)
-- 📧 **Email:** `nehalhammam0@gmail.com`
+- 📧 **Email:** [nehalhammam0@gmail.com)
 
 <p align="center"><i>Building intelligent systems and exploring the future of AI 🚀</i></p>
