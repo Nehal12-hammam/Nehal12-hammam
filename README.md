@@ -53,8 +53,8 @@
 
 ## 📬 Connect With Me
 
-- 💼 **LinkedIn:** [Nehal Hammam Hassan](https://linkedin.com/in/nehal-hammam-hassan)
-- 🐙 **GitHub:** [nehalhammam](https://github.com/nehalhammam)
+- 💼 **LinkedIn:** [Nehal Hammam Hassan](https://www.linkedin.com/in/nehalhammam-nh2032001/)
+- 🐙 **GitHub:** [https://github.com/Nehal12-hammam](https://github.com/Nehal12-hammam)
 - 📧 **Email:** (nehalhammam0@gmail.com)
 
 <p align="center"><i>Building intelligent systems and exploring the future of AI 🚀</i></p>
